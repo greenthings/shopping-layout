@@ -1,0 +1,36 @@
+body{ padding: 50px; font-family: monospace;}
+
+a{text-decoration:none;}
+
+h2{font-size: 20px;}
+
+#h{position:relative; margin:0 20px 20px 0; float:left; list-style: none; width: 370px;height: 480px;}
+#h:hover{ border: 1px solid #000000;}
+#h2{padding-top:310px; width: 320px;}
+
+.product_list{font-style:Lobster;}
+.title{padding-left: 39.5px;}
+.title a{color: #787878; font-size: 15px; font-weight: bold; text-decoration:none;}
+.product_wrap{ padding-top:20px; display:inline-block; border:1px solid; border-color:#787878 white;}
+.product_list{width: 1600px; height:500px;}
+.img{ position:absolute; left: 0; top: 10px;} 
+.btm{ position:absolute; left: 0; bottom:35px;}
+.btm div{float:left;}
+.smile{ padding-left: 2px;}
+.price{ position:absolute; left:0; padding-top: 15px; font-size: 20px;}
+
+.product_above{padding-top:25px; left:0; bottom:0; width:1642px; height:50px; font-size: 18px; border-top: 1px solid #787878}
+.free_dl,.search,.price_range{float: left; padding: 5px; margin-top: -3.5px; }
+.price_range{margin-left:1110px;}
+
+#sort_div{position: relative;}
+#product_sort{ position:absolute; height: 50px; width:1000px;left:8px; top:0px;}
+#product_sort ul li{ list-style: none; float: left; padding-left: 10px; font-size: 18px;}
+
+.product_menu{ border: 1px solid #787878; width: 1580px; display: inline-block; padding: 30px;}
+.product_menu p{display: inline;}
+.product_menu .text_main{ font-size:20px; }
+.product_menu .text_sub{ font-size:20px; }
+
+.empty{width:1640px; height:100px;}
+
