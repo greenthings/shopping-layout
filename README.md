@@ -1,5 +1,6 @@
 ﻿# shopping-layout
 ## with HTML, CSS, JS
+## URL  https://shoppinglayout.netlify.app/
 
 ## Main Page
 ![main_page](https://user-images.githubusercontent.com/69499549/89872128-77b35a00-dbf3-11ea-917d-7275752428af.PNG)
